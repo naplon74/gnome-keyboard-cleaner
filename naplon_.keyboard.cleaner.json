@@ -42,7 +42,8 @@
             "sources": [
                 {
                     "type": "git",
-                    "url": "file:///home/naplon/Projects"
+                    "url": "https://github.com/naplon74/gnome-keyboard-cleaner.git",
+                    "tag": "v0.1.0"
                 }
             ]
         }

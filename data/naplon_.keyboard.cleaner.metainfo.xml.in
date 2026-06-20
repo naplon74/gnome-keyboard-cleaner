@@ -17,10 +17,9 @@
     </p>
   </description>
 
-  <developer id="naplon">
+  <developer id="xyz.naplon">
     <name>Naplon_</name>
   </developer>
-
   <url type="homepage">https://naplon.xyz</url>
   <url type="vcs-browser">https://github.com/naplon74/gnome-keyboard-cleaner</url>
   <url type="bugtracker">https://github.com/naplon74/gnome-keyboard-cleaner/issues</url>
@@ -52,18 +51,13 @@
 
   <screenshots>
     <screenshot type="default">
-      <image>https://raw.githubusercontent.com/naplon74/gnome-keyboard-cleaner/main/screenshot/main.png</image>
+      <image>https://raw.githubusercontent.com/naplon74/gnome-keyboard-cleaner/refs/heads/main/screenshot/screenshot1.png</image>
       <caption>Keyboard Cleaner lock screen</caption>
     </screenshot>
 
     <screenshot>
-      <image>https://raw.githubusercontent.com/naplon74/gnome-keyboard-cleaner/main/screenshot/settings.png</image>
+      <image>https://raw.githubusercontent.com/naplon74/gnome-keyboard-cleaner/refs/heads/main/screenshot/settings.png</image>
       <caption>Application settings</caption>
-    </screenshot>
-
-    <screenshot>
-      <image>https://raw.githubusercontent.com/naplon74/gnome-keyboard-cleaner/main/screenshots/screenshot1.png</image>
-      <caption>Custom background support</caption>
     </screenshot>
   </screenshots>
 
