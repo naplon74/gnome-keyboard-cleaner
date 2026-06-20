@@ -16,6 +16,10 @@ Unlock safely using a configurable key combination and avoid accidental input wh
 
 ![Screenshot](screenshot/screenshot1.png)
 
+
+> [!IMPORTANT]
+> This is the Linux version. Windows version can be found [here](https://github.com/naplon74/keyboard-cleaner).
+
 ## Features
 
 - Lock keyboard and mouse input while cleaning.
@@ -28,18 +32,14 @@ Unlock safely using a configurable key combination and avoid accidental input wh
 - Simple settings dialog.
 - Native GNOME / Libadwaita interface.
 
+>[!NOTE]
+> The app is meant to run on GNOME, Alt + Tab is not blocked nor are gesture. 
+
 ---
 
 ## Why?
-
-Cleaning a keyboard often results in:
-
-- Random key presses.
-- Unwanted shortcuts.
-- Accidental deletion of text.
-- Unexpected application launches.
-
-Keyboard Cleaner temporarily disables input devices, allowing you to safely clean your keyboard and mouse without interacting with your desktop.
+- Clean your keyboard and mouse without accidental input.
+- Lock input for focus or security.
 
 ---
 
@@ -58,8 +58,7 @@ Keyboard Cleaner supports:
 
 - Custom background images
 - Optional blur effect
-- Debug mode
-- Future customization options
+- Debug mode (Allows Alt + F4)
 
 Settings are stored locally and remain private to the user.
 
