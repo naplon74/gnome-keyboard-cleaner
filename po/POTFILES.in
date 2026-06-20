@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/naplon_.keyboard.cleaner.desktop.in
+data/naplon_.keyboard.cleaner.metainfo.xml.in
+data/naplon_.keyboard.cleaner.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
