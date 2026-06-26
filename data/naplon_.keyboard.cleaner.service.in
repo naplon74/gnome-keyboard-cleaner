@@ -1,3 +1,0 @@
-[D-BUS Service]
-Name=naplon_.keyboard.cleaner
-Exec=@bindir@/keyboard_cleaner --gapplication-service
