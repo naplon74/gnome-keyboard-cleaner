@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Clean_Me
+Exec=clean_me
+Icon=io.github.Naplon.CleanMe
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true
