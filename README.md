@@ -1,8 +1,5 @@
+<div align="center">\
 # CleanMe
-
-
-
-<div align="center">
 <p>*This is a paceholder icon.</p>
   <img src="https://github.com/naplon74/keyboard-cleaner/blob/main/assets/icon.png" alt="logo" width="250" />
 <h3>Minimal modern Python app to temporarily lock your keyboard and mouse for cleaning. Unlock with a secure key combination. (Linux Only)</h3>
