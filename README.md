@@ -1,4 +1,4 @@
-<div align="center">\
+<div align="center">
 # CleanMe
 <p>*This is a paceholder icon.</p>
   <img src="https://github.com/naplon74/keyboard-cleaner/blob/main/assets/icon.png" alt="logo" width="250" />
